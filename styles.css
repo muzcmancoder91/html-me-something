@@ -7,6 +7,10 @@ header {
     text-align: center
 }
 
+h3 {
+    text-decoration: underline;
+}
+
 body {
     background-color: red;
 }
