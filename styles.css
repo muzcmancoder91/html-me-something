@@ -8,6 +8,10 @@ header {
     text-align: center
 }
 
+body {
+    background-color: red;
+}
+
 h3 {
     text-decoration: underline;
 }
@@ -16,6 +20,6 @@ h3 {
     border: black 2px solid;
 }
 
-body {
-    background-color: red;
+.p {
+    text-align: center;
 }
