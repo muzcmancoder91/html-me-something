@@ -12,6 +12,10 @@ h3 {
     text-decoration: underline;
 }
 
+#p {
+    border: black 2px solid;
+}
+
 body {
     background-color: red;
 }
